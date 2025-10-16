@@ -46,3 +46,12 @@ npm start
 🧠 Learnings
 
 This project helped me understand React components, state management, props, and event handling.
+
+🧑‍💻 About Me
+
+Hi! I’m Abhinav Dixit, a passionate Full Stack Developer who enjoys building meaningful and user-centric applications. I’m focused on creating impactful web solutions that enhance learning and collaboration in the tech community.
+
+📫 Connect with me: Linkedin : https://www.linkedin.com/in/abhinavdixit771/ github : https://github.com/Abhinav07072001
+
+Hashtags:
+#ReactJS #FrontendDevelopment #WebApp #JavaScript #TextUtils #UIUX #OpenSource #CodingProjects #WebDevelopment #ReactDeveloper
